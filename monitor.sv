@@ -1,8 +1,4 @@
 
-
-
-
-
 class axi_monitor;
   
   axi_transaction_write tr_w;
